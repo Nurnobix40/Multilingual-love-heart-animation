@@ -4,7 +4,8 @@ An animated heart made with Python, displaying "I Love You" in multiple language
 
 ## Preview
 
-![Multilingual Love Heart Preview](preview.png)
+!Multilingual-love-heart-animation
+
 
 ## Features
 
